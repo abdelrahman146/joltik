@@ -96,3 +96,5 @@ dist/
 data/
 
 .idea
+
+cache/
